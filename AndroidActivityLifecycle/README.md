@@ -18,4 +18,4 @@ The purpose of the app is to understand the activity life cycle and the role of 
 <img src="https://github.com/user-attachments/assets/f5e65f19-ce63-4f05-aac7-d0bdd7a63ec8" alt="Thread Count After B" style="width: 30%;">
 
 ## Dialog Box
-<img src="https://github.com/user-attachments/assets/355d9aba-779c-4af0-85cc-54c9bada12f7" alt="Dialog Box" style="width: 30%;">
+<img src="https://github.com/user-attachments/assets/d3e1bc8a-89bf-4e74-b429-35b249a0675f" alt="Dialog Box" style="width: 30%;">
