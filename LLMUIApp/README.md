@@ -12,13 +12,15 @@ This Android application demonstrates the use of Language Model APIs, specifical
 ## Screenshots
 
 ### Main Screen
-![Main Screen](placeholder_main_screen.png)
+<img src="images/Screenshot_20241020_155224.png" alt="Activity Main" style="width: 30%;">
 
 ### Gemini API Response
-![Gemini API Response](placeholder_gemini_response.png)
+<img src="images/Screenshot_20241020_155337.png" alt="Who Gemini" style="width: 30%;">
+<img src="images/Screenshot_20241020_155424.png" alt="Root Gemini" style="width: 30%;">
 
 ### OpenAI API Response
-![OpenAI API Response](placeholder_openai_response.png)
+<img src="images/Screenshot_20241020_155352.png" alt="Activity Main" style="width: 30%;">
+<img src="images/Screenshot_20241020_155504.png" alt="Activity Main" style="width: 30%;">
 
 ## Installation
 
