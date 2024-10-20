@@ -20,3 +20,13 @@ The **PDF Download Activity** app provides a user-friendly interface for downloa
 - Android 10 (API level 29) or above
 - Android device or emulator
 - Internet permission in your Android project (`INTERNET`)
+
+## Screenshots
+
+<img src="images/Screenshot_20241020_153501.png" alt="Activity Main" style="width: 30%;">
+
+<img src="images/Screenshot_20241020_153555.png" alt="Activity Main" style="width: 30%;">
+
+<img src="images/Screenshot_20241020_153704.png" alt="Activity Main" style="width: 30%;">
+
+<img src="images/Screenshot_20241020_153707.png" alt="Activity Main" style="width: 30%;">
