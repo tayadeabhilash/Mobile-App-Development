@@ -24,10 +24,7 @@ This Android application demonstrates the use of Language Model APIs, specifical
 
 ## Installation
 
-1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/android-llm-api-app.git
-   ```
+1. Clone this repository.
 2. Open the project in Android Studio.
 3. Replace the API keys in `MainActivity.java`:
     - Replace `YOUR_GEMINI_API_KEY` with your actual Gemini API key
