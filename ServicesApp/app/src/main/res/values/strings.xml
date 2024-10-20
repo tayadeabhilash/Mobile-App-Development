@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ServicesApp</string>
+    <string name="pdf_download_activity">PDF Download Activity</string>
+    <string name="pdf2_file_location">PDF2 File Location</string>
+    <string name="pdf3_file_location">PDF3 File Location</string>
+    <string name="pdf4_file_location">PDF4 File Location</string>
+    <string name="pdf5_file_location">PDF5 File Location</string>
+    <string name="start_download">Start download</string>
+    <string name="please_provide_a_list_of_five_sjsu_pdfs_to_download">Please provide a list of five SJSU PDFs to download</string>
+    <string name="hardcode_of_files_is_file_or_you_can_provide_full_qualified_names">*hardcode of files is file! or you can provide full qualified names...</string>
+    <string name="pdf1_file_location">PDF1 File Location</string>
+</resources>

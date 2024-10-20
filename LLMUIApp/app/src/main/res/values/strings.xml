@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LLM UI App</string>
+    <string name="llm_api_app">LLM API App</string>
+    <string name="enter_your_prompt_here">Enter your prompt here</string>
+    <string name="gemini">Gemini</string>
+    <string name="openai">OpenAI</string>
+    <string name="send">Send</string>
+    <string name="response">Response:</string>
+</resources>
