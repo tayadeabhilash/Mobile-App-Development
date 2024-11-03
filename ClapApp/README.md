@@ -12,4 +12,4 @@ By moving your hand near and away from the phone's proximity sensor, the app det
 - Minimum SDK version: 24 (Android 7.0 Nougat)
 
 ## Demo
-![Clap App Demo](/assets/Demo.gif)
+![Clap App Demo](assets/Demo.gif)
